@@ -247,7 +247,7 @@
 </details>
 
 ## Пример готового custom agent
-Файл [`auto-qa.agent.md`](./examples/auto-qa.agent.md) содержит рабочий пример [custom agent](#custom-agents). 
+Файл [`auto-qa.agent.md`](./examples/auto-qa.agent.md?plain=1) содержит рабочий пример [custom agent](#custom-agents). 
 Можно скачать файл и использовать для [Инструкция: Способ 2 — Создание агента вручную через файл](#способ-2---создание-агента-вручную-через-создание-файла-в-workspace)
 
 Файл универсальный, испольует только поддерживаемые везде [YAML frontmatter параметры](#yaml-frontmatter). В режиме просмотра YAML параметры могут быть не видны, открывайте исходник файла.
